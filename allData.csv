@@ -1,0 +1,791 @@
+Scenario,State,Sector,Year,value
+Reference,A,Electric Power,1990,4.873500224
+Reference,A,Residential,1990,2.470493597
+Reference,A,Commercial,1990,1.378194345
+Reference,A,Industrial,1990,0.950758999
+Reference,A,Transportation,1990,5.529330217
+Reference,B,Electric Power,1990,25.76009933
+Reference,B,Residential,1990,15.20902644
+Reference,B,Commercial,1990,8.451674702
+Reference,B,Industrial,1990,8.58053188
+Reference,B,Transportation,1990,30.43787861
+Reference,A,Electric Power,1991,4.450553953
+Reference,A,Residential,1991,2.457679187
+Reference,A,Commercial,1991,1.35269973
+Reference,A,Industrial,1991,0.932124448
+Reference,A,Transportation,1991,5.635631577
+Reference,B,Electric Power,1991,26.42327461
+Reference,B,Residential,1991,14.4247467
+Reference,B,Commercial,1991,9.235943558
+Reference,B,Industrial,1991,7.998573397
+Reference,B,Transportation,1991,29.192598
+Reference,A,Electric Power,1992,4.32087347
+Reference,A,Residential,1992,2.578309353
+Reference,A,Commercial,1992,1.200550962
+Reference,A,Industrial,1992,1.264118285
+Reference,A,Transportation,1992,5.602355128
+Reference,B,Electric Power,1992,24.87123068
+Reference,B,Residential,1992,16.52792512
+Reference,B,Commercial,1992,8.978349
+Reference,B,Industrial,1992,9.826005102
+Reference,B,Transportation,1992,29.04418085
+Reference,A,Electric Power,1993,4.49897901
+Reference,A,Residential,1993,2.56844813
+Reference,A,Commercial,1993,1.207015433
+Reference,A,Industrial,1993,1.54543169
+Reference,A,Transportation,1993,5.733601727
+Reference,B,Electric Power,1993,22.3808302
+Reference,B,Residential,1993,16.65227526
+Reference,B,Commercial,1993,8.010242492
+Reference,B,Industrial,1993,9.753891041
+Reference,B,Transportation,1993,29.48799998
+Reference,A,Electric Power,1994,4.445655547
+Reference,A,Residential,1994,2.629286249
+Reference,A,Commercial,1994,1.356439289
+Reference,A,Industrial,1994,1.343102506
+Reference,A,Transportation,1994,5.833964457
+Reference,B,Electric Power,1994,22.64834556
+Reference,B,Residential,1994,16.48163161
+Reference,B,Commercial,1994,8.897933092
+Reference,B,Industrial,1994,9.204725295
+Reference,B,Transportation,1994,29.68440064
+Reference,A,Electric Power,1995,4.360214322
+Reference,A,Residential,1995,2.759389995
+Reference,A,Commercial,1995,1.235238038
+Reference,A,Industrial,1995,1.319031459
+Reference,A,Transportation,1995,6.136486359
+Reference,B,Electric Power,1995,21.6106341
+Reference,B,Residential,1995,14.8910253
+Reference,B,Commercial,1995,8.989791703
+Reference,B,Industrial,1995,8.789370959
+Reference,B,Transportation,1995,30.10207432
+Reference,A,Electric Power,1996,4.135669732
+Reference,A,Residential,1996,2.921586234
+Reference,A,Commercial,1996,1.375130181
+Reference,A,Industrial,1996,1.294444197
+Reference,A,Transportation,1996,6.291867288
+Reference,B,Electric Power,1996,21.05269455
+Reference,B,Residential,1996,14.7051238
+Reference,B,Commercial,1996,9.0692965
+Reference,B,Industrial,1996,9.384711498
+Reference,B,Transportation,1996,31.43799872
+Reference,A,Electric Power,1997,5.13051697
+Reference,A,Residential,1997,2.899900615
+Reference,A,Commercial,1997,1.390186154
+Reference,A,Industrial,1997,1.28679705
+Reference,A,Transportation,1997,6.599860679
+Reference,B,Electric Power,1997,26.51192237
+Reference,B,Residential,1997,14.49056678
+Reference,B,Commercial,1997,9.458548543
+Reference,B,Industrial,1997,9.600027376
+Reference,B,Transportation,1997,31.82772149
+Reference,A,Electric Power,1998,4.817060226
+Reference,A,Residential,1998,2.824092198
+Reference,A,Commercial,1998,1.225484261
+Reference,A,Industrial,1998,1.282308293
+Reference,A,Transportation,1998,7.231659188
+Reference,B,Electric Power,1998,27.07138042
+Reference,B,Residential,1998,13.29467647
+Reference,B,Commercial,1998,8.068327978
+Reference,B,Industrial,1998,9.860985948
+Reference,B,Transportation,1998,31.77808833
+Reference,A,Electric Power,1999,4.680324171
+Reference,A,Residential,1999,2.851352327
+Reference,A,Commercial,1999,1.262929749
+Reference,A,Industrial,1999,1.294624815
+Reference,A,Transportation,1999,7.486942294
+Reference,B,Electric Power,1999,24.16958892
+Reference,B,Residential,1999,14.11873326
+Reference,B,Commercial,1999,6.178252365
+Reference,B,Industrial,1999,10.69436307
+Reference,B,Transportation,1999,32.45776537
+Reference,A,Electric Power,2000,5.178731
+Reference,A,Residential,2000,2.916369868
+Reference,A,Commercial,2000,1.542440109
+Reference,A,Industrial,2000,1.604199584
+Reference,A,Transportation,2000,7.614736111
+Reference,B,Electric Power,2000,22.24501606
+Reference,B,Residential,2000,15.70116411
+Reference,B,Commercial,2000,6.736773555
+Reference,B,Industrial,2000,10.54995004
+Reference,B,Transportation,2000,33.51810221
+Reference,A,Electric Power,2001,4.862445
+Reference,A,Residential,2001,2.835462299
+Reference,A,Commercial,2001,1.398793958
+Reference,A,Industrial,2001,1.682921662
+Reference,A,Transportation,2001,7.616488387
+Reference,B,Electric Power,2001,22.02969331
+Reference,B,Residential,2001,16.0256365
+Reference,B,Commercial,2001,5.705304742
+Reference,B,Industrial,2001,11.28103882
+Reference,B,Transportation,2001,33.00095648
+Reference,A,Electric Power,2002,5.556992
+Reference,A,Residential,2002,2.657553465
+Reference,A,Commercial,2002,1.401550135
+Reference,A,Industrial,2002,1.5670271
+Reference,A,Transportation,2002,8.441261461
+Reference,B,Electric Power,2002,22.85438132
+Reference,B,Residential,2002,16.02955069
+Reference,B,Commercial,2002,5.900726548
+Reference,B,Industrial,2002,11.20205936
+Reference,B,Transportation,2002,32.94932076
+Reference,A,Electric Power,2003,8.478382
+Reference,A,Residential,2003,3.289478975
+Reference,A,Commercial,2003,1.736692061
+Reference,A,Industrial,2003,1.579691939
+Reference,A,Transportation,2003,7.893474797
+Reference,B,Electric Power,2003,24.97810032
+Reference,B,Residential,2003,16.3332751
+Reference,B,Commercial,2003,7.04506445
+Reference,B,Industrial,2003,9.237005492
+Reference,B,Transportation,2003,32.64398454
+Reference,A,Electric Power,2004,8.812538
+Reference,A,Residential,2004,3.38127628
+Reference,A,Commercial,2004,1.901690769
+Reference,A,Industrial,2004,1.618294722
+Reference,A,Transportation,2004,8.066520831
+Reference,B,Electric Power,2004,23.7164043
+Reference,B,Residential,2004,15.11771467
+Reference,B,Commercial,2004,6.599707786
+Reference,B,Industrial,2004,9.122793216
+Reference,B,Transportation,2004,34.49652273
+Reference,A,Electric Power,2005,8.972027
+Reference,A,Residential,2005,3.171861784
+Reference,A,Commercial,2005,2.034295443
+Reference,A,Industrial,2005,1.494872163
+Reference,A,Transportation,2005,7.697439242
+Reference,B,Electric Power,2005,24.43656646
+Reference,B,Residential,2005,14.95564883
+Reference,B,Commercial,2005,6.630305528
+Reference,B,Industrial,2005,9.377973809
+Reference,B,Transportation,2005,34.92300291
+Reference,A,Electric Power,2006,7.568884
+Reference,A,Residential,2006,2.793713578
+Reference,A,Commercial,2006,1.404373948
+Reference,A,Industrial,2006,1.668792358
+Reference,A,Transportation,2006,7.669744897
+Reference,B,Electric Power,2006,21.30676976
+Reference,B,Residential,2006,12.8923082
+Reference,B,Commercial,2006,5.023333055
+Reference,B,Industrial,2006,9.399577325
+Reference,B,Transportation,2006,33.94566708
+Reference,A,Electric Power,2007,7.31
+Reference,A,Residential,2007,2.801972289
+Reference,A,Commercial,2007,1.45594537
+Reference,A,Industrial,2007,1.410392034
+Reference,A,Transportation,2007,7.829871609
+Reference,B,Electric Power,2007,23.3428253
+Reference,B,Residential,2007,13.58093531
+Reference,B,Commercial,2007,5.343592158
+Reference,B,Industrial,2007,9.329277255
+Reference,B,Transportation,2007,34.39131042
+Reference,A,Electric Power,2008,7.095
+Reference,A,Residential,2008,2.749035398
+Reference,A,Commercial,2008,1.440600962
+Reference,A,Industrial,2008,1.331867487
+Reference,A,Transportation,2008,7.676823276
+Reference,B,Electric Power,2008,19.87826739
+Reference,B,Residential,2008,14.34946369
+Reference,B,Commercial,2008,5.68371801
+Reference,B,Industrial,2008,9.064977143
+Reference,B,Transportation,2008,34.31941344
+Reference,A,Electric Power,2009,5.769880665
+Reference,A,Residential,2009,2.608910611
+Reference,A,Commercial,2009,1.387936086
+Reference,A,Industrial,2009,1.279871913
+Reference,A,Transportation,2009,7.630491518
+Reference,B,Electric Power,2009,17.32734855
+Reference,B,Residential,2009,13.99627022
+Reference,B,Commercial,2009,5.822223687
+Reference,B,Industrial,2009,8.031107449
+Reference,B,Transportation,2009,31.40826501
+Reference,A,Electric Power,2010,5.899447347
+Reference,A,Residential,2010,2.317912794
+Reference,A,Commercial,2010,1.255090457
+Reference,A,Industrial,2010,1.264945121
+Reference,A,Transportation,2010,7.656875838
+Reference,B,Electric Power,2010,18.04542659
+Reference,B,Residential,2010,13.722604
+Reference,B,Commercial,2010,6.758022233
+Reference,B,Industrial,2010,8.664290272
+Reference,B,Transportation,2010,31.38588656
+Reference,A,Electric Power,2011,5.525369107
+Reference,A,Residential,2011,2.44983766
+Reference,A,Commercial,2011,1.388947877
+Reference,A,Industrial,2011,1.270948685
+Reference,A,Transportation,2011,7.468298498
+Reference,B,Electric Power,2011,14.2297705
+Reference,B,Residential,2011,13.79085412
+Reference,B,Commercial,2011,6.368913673
+Reference,B,Industrial,2011,8.9346769
+Reference,B,Transportation,2011,31.494211
+Reference,A,Residential,2012,2.258480778
+Reference,A,Commercial,2012,1.241335348
+Reference,A,Industrial,2012,0.841814176
+Reference,A,Transportation,2012,7.370839539
+Reference,A,Electric Power,2012,4.0550543
+Reference,B,Residential,2012,12.60662651
+Reference,B,Commercial,2012,5.922475678
+Reference,B,Industrial,2012,4.205308018
+Reference,B,Transportation,2012,32.34956356
+Reference,B,Electric Power,2012,12.69308123
+Reference,A,Residential,2013,2.41724121
+Reference,A,Commercial,2013,1.288531954
+Reference,A,Industrial,2013,0.862506661
+Reference,A,Transportation,2013,7.367415695
+Reference,A,Electric Power,2013,3.982825189
+Reference,B,Residential,2013,14.33403306
+Reference,B,Commercial,2013,6.268500467
+Reference,B,Industrial,2013,4.388801463
+Reference,B,Transportation,2013,32.28617865
+Reference,B,Electric Power,2013,12.42486593
+Reference,A,Residential,2014,2.445987975
+Reference,A,Commercial,2014,1.479917673
+Reference,A,Industrial,2014,0.885510196
+Reference,A,Transportation,2014,7.256909167
+Reference,A,Electric Power,2014,4.043373146
+Reference,B,Residential,2014,14.59908463
+Reference,B,Commercial,2014,6.761156148
+Reference,B,Industrial,2014,4.480546723
+Reference,B,Transportation,2014,31.89457561
+Reference,B,Electric Power,2014,12.68891582
+Reference,A,Residential,2015,2.320197463
+Reference,A,Commercial,2015,1.474636531
+Reference,A,Industrial,2015,0.934033017
+Reference,A,Transportation,2015,7.199174058
+Reference,A,Electric Power,2015,4.038879784
+Reference,B,Residential,2015,13.82127625
+Reference,B,Commercial,2015,6.678789377
+Reference,B,Industrial,2015,4.619779159
+Reference,B,Transportation,2015,31.7046607
+Reference,B,Electric Power,2015,12.75403179
+Reference,A,Residential,2016,2.305293363
+Reference,A,Commercial,2016,1.490444114
+Reference,A,Industrial,2016,0.972234343
+Reference,A,Transportation,2016,7.181885402
+Reference,A,Electric Power,2016,3.107421587
+Reference,B,Residential,2016,13.78393173
+Reference,B,Commercial,2016,6.745276477
+Reference,B,Industrial,2016,4.786973395
+Reference,B,Transportation,2016,31.68050307
+Reference,B,Electric Power,2016,11.3380254
+Reference,A,Residential,2017,2.286413262
+Reference,A,Commercial,2017,1.501359675
+Reference,A,Industrial,2017,0.993405323
+Reference,A,Transportation,2017,7.135622689
+Reference,A,Electric Power,2017,3.620554932
+Reference,B,Residential,2017,13.72746223
+Reference,B,Commercial,2017,6.797761758
+Reference,B,Industrial,2017,4.876558353
+Reference,B,Transportation,2017,31.53925009
+Reference,B,Electric Power,2017,12.36809021
+Reference,A,Residential,2018,2.263237186
+Reference,A,Commercial,2018,1.504711643
+Reference,A,Industrial,2018,1.006298924
+Reference,A,Transportation,2018,7.068131148
+Reference,A,Electric Power,2018,4.186887471
+Reference,B,Residential,2018,13.640649
+Reference,B,Commercial,2018,6.818674654
+Reference,B,Industrial,2018,4.926832509
+Reference,B,Transportation,2018,31.29651672
+Reference,B,Electric Power,2018,13.35100913
+Reference,A,Residential,2019,2.237740716
+Reference,A,Commercial,2019,1.505273066
+Reference,A,Industrial,2019,1.01461747
+Reference,A,Transportation,2019,6.985933826
+Reference,A,Electric Power,2019,4.426732058
+Reference,B,Residential,2019,13.54163141
+Reference,B,Commercial,2019,6.833744997
+Reference,B,Industrial,2019,4.974229029
+Reference,B,Transportation,2019,30.997115
+Reference,B,Electric Power,2019,13.73775017
+Reference,A,Residential,2020,2.212205455
+Reference,A,Commercial,2020,1.504271317
+Reference,A,Industrial,2020,1.024062863
+Reference,A,Transportation,2020,6.896936024
+Reference,A,Electric Power,2020,4.421686181
+Reference,B,Residential,2020,13.44511558
+Reference,B,Commercial,2020,6.845817756
+Reference,B,Industrial,2020,5.032690663
+Reference,B,Transportation,2020,30.66720442
+Reference,B,Electric Power,2020,13.59808782
+Reference,A,Residential,2021,2.186665462
+Reference,A,Commercial,2021,1.501944425
+Reference,A,Industrial,2021,1.032135394
+Reference,A,Transportation,2021,6.803987385
+Reference,A,Electric Power,2021,4.419696587
+Reference,B,Residential,2021,13.34116161
+Reference,B,Commercial,2021,6.846806043
+Reference,B,Industrial,2021,5.081016295
+Reference,B,Transportation,2021,30.3256885
+Reference,B,Electric Power,2021,13.49737336
+Reference,A,Residential,2022,2.161892426
+Reference,A,Commercial,2022,1.498353835
+Reference,A,Industrial,2022,1.041212695
+Reference,A,Transportation,2022,6.707656766
+Reference,A,Electric Power,2022,4.366418087
+Reference,B,Residential,2022,13.23737464
+Reference,B,Commercial,2022,6.846433929
+Reference,B,Industrial,2022,5.138350197
+Reference,B,Transportation,2022,29.96990177
+Reference,B,Electric Power,2022,13.23765098
+Reference,A,Residential,2023,2.138744813
+Reference,A,Commercial,2023,1.496712658
+Reference,A,Industrial,2023,1.051643448
+Reference,A,Transportation,2023,6.610749269
+Reference,A,Electric Power,2023,4.323416001
+Reference,B,Residential,2023,13.13996101
+Reference,B,Commercial,2023,6.852326597
+Reference,B,Industrial,2023,5.198280086
+Reference,B,Transportation,2023,29.61361708
+Reference,B,Electric Power,2023,13.03794877
+Reference,A,Residential,2024,2.117022071
+Reference,A,Commercial,2024,1.495229579
+Reference,A,Industrial,2024,1.062067672
+Reference,A,Transportation,2024,6.510305367
+Reference,A,Electric Power,2024,4.301803568
+Reference,B,Residential,2024,13.04547271
+Reference,B,Commercial,2024,6.855686713
+Reference,B,Industrial,2024,5.251008408
+Reference,B,Transportation,2024,29.2489079
+Reference,B,Electric Power,2024,12.93663013
+Reference,A,Residential,2025,2.095206248
+Reference,A,Commercial,2025,1.49285005
+Reference,A,Industrial,2025,1.074370087
+Reference,A,Transportation,2025,6.408171817
+Reference,A,Electric Power,2025,4.301037282
+Reference,B,Residential,2025,12.94424416
+Reference,B,Commercial,2025,6.850666054
+Reference,B,Industrial,2025,5.310172712
+Reference,B,Transportation,2025,28.88202779
+Reference,B,Electric Power,2025,12.91404345
+Reference,A,Residential,2026,2.074051677
+Reference,A,Commercial,2026,1.489688994
+Reference,A,Industrial,2026,1.085974439
+Reference,A,Transportation,2026,6.315477952
+Reference,A,Electric Power,2026,4.22435544
+Reference,B,Residential,2026,12.8447799
+Reference,B,Commercial,2026,6.846309756
+Reference,B,Industrial,2026,5.370947909
+Reference,B,Transportation,2026,28.54732517
+Reference,B,Electric Power,2026,12.60730995
+Reference,A,Residential,2027,2.053001631
+Reference,A,Commercial,2027,1.486606975
+Reference,A,Industrial,2027,1.095241154
+Reference,A,Transportation,2027,6.22964766
+Reference,A,Electric Power,2027,4.970618695
+Reference,B,Residential,2027,12.74361355
+Reference,B,Commercial,2027,6.843574774
+Reference,B,Industrial,2027,5.421120827
+Reference,B,Transportation,2027,28.23409871
+Reference,B,Electric Power,2027,13.60661197
+Reference,A,Residential,2028,2.032389176
+Reference,A,Commercial,2028,1.486711549
+Reference,A,Industrial,2028,1.102572113
+Reference,A,Transportation,2028,6.154783266
+Reference,A,Electric Power,2028,5.205404576
+Reference,B,Residential,2028,12.64245837
+Reference,B,Commercial,2028,6.852455761
+Reference,B,Industrial,2028,5.464094247
+Reference,B,Transportation,2028,27.96923606
+Reference,B,Electric Power,2028,13.98446898
+Reference,A,Residential,2029,2.012027121
+Reference,A,Commercial,2029,1.484065958
+Reference,A,Industrial,2029,1.110075095
+Reference,A,Transportation,2029,6.091699184
+Reference,A,Electric Power,2029,5.15822478
+Reference,B,Residential,2029,12.53838986
+Reference,B,Commercial,2029,6.853362279
+Reference,B,Industrial,2029,5.506966209
+Reference,B,Transportation,2029,27.7506007
+Reference,B,Electric Power,2029,13.71041213
+Reference,A,Residential,2030,1.99228036
+Reference,A,Commercial,2030,1.483681331
+Reference,A,Industrial,2030,1.119108894
+Reference,A,Transportation,2030,6.039069128
+Reference,A,Electric Power,2030,5.208081078
+Reference,B,Residential,2030,12.43547565
+Reference,B,Commercial,2030,6.861384456
+Reference,B,Industrial,2030,5.557311065
+Reference,B,Transportation,2030,27.57941948
+Reference,B,Electric Power,2030,13.8702186
+S1,A,Residential,2012,2.258480778
+S1,A,Commercial,2012,1.241260719
+S1,A,Industrial,2012,0.841906381
+S1,A,Transportation,2012,7.370844294
+S1,A,Electric Power,2012,4.0550543
+S1,B,Residential,2012,12.60662651
+S1,B,Commercial,2012,5.922379834
+S1,B,Industrial,2012,4.20570337
+S1,B,Transportation,2012,32.34957794
+S1,B,Electric Power,2012,12.69308123
+S1,A,Residential,2013,2.41724121
+S1,A,Commercial,2013,1.288510851
+S1,A,Industrial,2013,0.862479641
+S1,A,Transportation,2013,7.367422094
+S1,A,Electric Power,2013,3.971854325
+S1,B,Residential,2013,14.33403306
+S1,B,Commercial,2013,6.268323955
+S1,B,Industrial,2013,4.388376602
+S1,B,Transportation,2013,32.28622998
+S1,B,Electric Power,2013,12.40925144
+S1,A,Residential,2014,2.447134734
+S1,A,Commercial,2014,1.47998046
+S1,A,Industrial,2014,0.898655909
+S1,A,Transportation,2014,7.273016107
+S1,A,Electric Power,2014,4.022856012
+S1,B,Residential,2014,14.61012533
+S1,B,Commercial,2014,6.759938073
+S1,B,Industrial,2014,4.544313413
+S1,B,Transportation,2014,31.97194312
+S1,B,Electric Power,2014,12.66928108
+S1,A,Residential,2015,2.324076808
+S1,A,Commercial,2015,1.474154525
+S1,A,Industrial,2015,0.964151284
+S1,A,Transportation,2015,7.241828532
+S1,A,Electric Power,2015,3.812854545
+S1,B,Residential,2015,13.85764973
+S1,B,Commercial,2015,6.675939384
+S1,B,Industrial,2015,4.741439259
+S1,B,Transportation,2015,31.91294119
+S1,B,Electric Power,2015,12.49421733
+S1,A,Residential,2016,2.311961206
+S1,A,Commercial,2016,1.490934541
+S1,A,Industrial,2016,1.009688029
+S1,A,Transportation,2016,7.232596655
+S1,A,Electric Power,2016,3.161123981
+S1,B,Residential,2016,13.84867073
+S1,B,Commercial,2016,6.748570259
+S1,B,Industrial,2016,4.94338967
+S1,B,Transportation,2016,31.92931645
+S1,B,Electric Power,2016,11.43631155
+S1,A,Residential,2017,2.295675284
+S1,A,Commercial,2017,1.501901311
+S1,A,Industrial,2017,1.045904841
+S1,A,Transportation,2017,7.21375949
+S1,A,Electric Power,2017,4.999333758
+S1,B,Residential,2017,13.82274713
+S1,B,Commercial,2017,6.804931356
+S1,B,Industrial,2017,5.107541068
+S1,B,Transportation,2017,31.92170608
+S1,B,Electric Power,2017,14.5764202
+S1,A,Residential,2018,2.275694219
+S1,A,Commercial,2018,1.504972257
+S1,A,Industrial,2018,1.076790603
+S1,A,Transportation,2018,7.180705947
+S1,A,Electric Power,2018,5.076406919
+S1,B,Residential,2018,13.76961909
+S1,B,Commercial,2018,6.825430997
+S1,B,Industrial,2018,5.235345565
+S1,B,Transportation,2018,31.84981248
+S1,B,Electric Power,2018,14.83327726
+S1,A,Residential,2019,2.25385736
+S1,A,Commercial,2019,1.505157583
+S1,A,Industrial,2019,1.09727179
+S1,A,Transportation,2019,7.124875211
+S1,A,Electric Power,2019,5.06845118
+S1,B,Residential,2019,13.70296065
+S1,B,Commercial,2019,6.837438103
+S1,B,Industrial,2019,5.337361371
+S1,B,Transportation,2019,31.68083843
+S1,B,Electric Power,2019,14.77039597
+S1,A,Residential,2020,2.232644377
+S1,A,Commercial,2020,1.506496564
+S1,A,Industrial,2020,1.117684441
+S1,A,Transportation,2020,7.050013464
+S1,A,Electric Power,2020,5.038737659
+S1,B,Residential,2020,13.64377074
+S1,B,Commercial,2020,6.854086748
+S1,B,Industrial,2020,5.440952806
+S1,B,Transportation,2020,31.42518581
+S1,B,Electric Power,2020,14.61376668
+S1,A,Residential,2021,2.212545189
+S1,A,Commercial,2021,1.506840531
+S1,A,Industrial,2021,1.134835098
+S1,A,Transportation,2021,6.969891605
+S1,A,Electric Power,2021,4.925092908
+S1,B,Residential,2021,13.5898351
+S1,B,Commercial,2021,6.872107002
+S1,B,Industrial,2021,5.538509172
+S1,B,Transportation,2021,31.14720778
+S1,B,Electric Power,2021,14.1229032
+S1,A,Residential,2022,2.193630173
+S1,A,Commercial,2022,1.507855615
+S1,A,Industrial,2022,1.150997538
+S1,A,Transportation,2022,6.884146608
+S1,A,Electric Power,2022,4.87338871
+S1,B,Residential,2022,13.54177756
+S1,B,Commercial,2022,6.898746428
+S1,B,Industrial,2022,5.634843956
+S1,B,Transportation,2022,30.84562109
+S1,B,Electric Power,2022,13.89103766
+S1,A,Residential,2023,2.175531987
+S1,A,Commercial,2023,1.507937392
+S1,A,Industrial,2023,1.164112185
+S1,A,Transportation,2023,6.791030222
+S1,A,Electric Power,2023,4.817095697
+S1,B,Residential,2023,13.4881736
+S1,B,Commercial,2023,6.914621779
+S1,B,Industrial,2023,5.701114272
+S1,B,Transportation,2023,30.50878737
+S1,B,Electric Power,2023,13.64359177
+S1,A,Residential,2024,2.158631078
+S1,A,Commercial,2024,1.506638904
+S1,A,Industrial,2024,1.175442189
+S1,A,Transportation,2024,6.692350802
+S1,A,Electric Power,2024,4.790875539
+S1,B,Residential,2024,13.43144471
+S1,B,Commercial,2024,6.917107501
+S1,B,Industrial,2024,5.756692747
+S1,B,Transportation,2024,30.15127276
+S1,B,Electric Power,2024,13.52055991
+S1,A,Residential,2025,2.141327319
+S1,A,Commercial,2025,1.504190595
+S1,A,Industrial,2025,1.192160589
+S1,A,Transportation,2025,6.598734656
+S1,A,Electric Power,2025,4.766059703
+S1,B,Residential,2025,13.36492386
+S1,B,Commercial,2025,6.911566061
+S1,B,Industrial,2025,5.837668763
+S1,B,Transportation,2025,29.82378835
+S1,B,Electric Power,2025,13.39305476
+S1,A,Residential,2026,2.124428571
+S1,A,Commercial,2026,1.500493945
+S1,A,Industrial,2026,1.208324471
+S1,A,Transportation,2026,6.514868586
+S1,A,Electric Power,2026,5.265821093
+S1,B,Residential,2026,13.29844908
+S1,B,Commercial,2026,6.901650742
+S1,B,Industrial,2026,5.919896561
+S1,B,Transportation,2026,29.53045709
+S1,B,Electric Power,2026,14.0109925
+S1,A,Residential,2027,2.107654895
+S1,A,Commercial,2027,1.49874027
+S1,A,Industrial,2027,1.218138984
+S1,A,Transportation,2027,6.433683651
+S1,A,Electric Power,2027,5.960365089
+S1,B,Residential,2027,13.23076204
+S1,B,Commercial,2027,6.902999989
+S1,B,Industrial,2027,5.978284482
+S1,B,Transportation,2027,29.24032064
+S1,B,Electric Power,2027,14.96627494
+S1,A,Residential,2028,2.091081838
+S1,A,Commercial,2028,1.497793131
+S1,A,Industrial,2028,1.226989186
+S1,A,Transportation,2028,6.369193858
+S1,A,Electric Power,2028,5.834537013
+S1,B,Residential,2028,13.16104261
+S1,B,Commercial,2028,6.906985306
+S1,B,Industrial,2028,6.032430486
+S1,B,Transportation,2028,29.02353961
+S1,B,Electric Power,2028,14.65504528
+S1,A,Residential,2029,2.074622236
+S1,A,Commercial,2029,1.49552151
+S1,A,Industrial,2029,1.238361693
+S1,A,Transportation,2029,6.323794979
+S1,A,Electric Power,2029,5.827356921
+S1,B,Residential,2029,13.08722739
+S1,B,Commercial,2029,6.905262776
+S1,B,Industrial,2029,6.095874313
+S1,B,Transportation,2029,28.89044355
+S1,B,Electric Power,2029,14.60553118
+S1,A,Residential,2030,2.059282713
+S1,A,Commercial,2030,1.496971957
+S1,A,Industrial,2030,1.252557084
+S1,A,Transportation,2030,6.292070871
+S1,A,Electric Power,2030,5.7429673
+S1,B,Residential,2030,13.0241272
+S1,B,Commercial,2030,6.926518739
+S1,B,Industrial,2030,6.180784033
+S1,B,Transportation,2030,28.81493048
+S1,B,Electric Power,2030,14.39122909
+S2,A,Residential,2012,2.258480778
+S2,A,Commercial,2012,1.241280558
+S2,A,Industrial,2012,0.841814176
+S2,A,Transportation,2012,7.370844294
+S2,A,Electric Power,2012,4.0550543
+S2,B,Residential,2012,12.60662651
+S2,B,Commercial,2012,5.922443444
+S2,B,Industrial,2012,4.205308018
+S2,B,Transportation,2012,32.34957794
+S2,B,Electric Power,2012,12.69308123
+S2,A,Residential,2013,2.41724121
+S2,A,Commercial,2013,1.288507629
+S2,A,Industrial,2013,0.862510585
+S2,A,Transportation,2013,7.36742045
+S2,A,Electric Power,2013,3.982819486
+S2,B,Residential,2013,14.33403306
+S2,B,Commercial,2013,6.268512126
+S2,B,Industrial,2013,4.388889974
+S2,B,Transportation,2013,32.28619304
+S2,B,Electric Power,2013,12.42484334
+S2,A,Residential,2014,2.445972021
+S2,A,Commercial,2014,1.479892074
+S2,A,Industrial,2014,0.885500193
+S2,A,Transportation,2014,7.256915388
+S2,A,Electric Power,2014,4.052800789
+S2,B,Residential,2014,14.59907038
+S2,B,Commercial,2014,6.761343932
+S2,B,Industrial,2014,4.480519445
+S2,B,Transportation,2014,31.89451325
+S2,B,Electric Power,2014,12.69756597
+S2,A,Residential,2015,2.320149422
+S2,A,Commercial,2015,1.47442799
+S2,A,Industrial,2015,0.933853887
+S2,A,Transportation,2015,7.19911889
+S2,A,Electric Power,2015,3.870883535
+S2,B,Residential,2015,13.82057902
+S2,B,Commercial,2015,6.677400463
+S2,B,Industrial,2015,4.61804675
+S2,B,Transportation,2015,31.70526893
+S2,B,Electric Power,2015,12.54783452
+S2,A,Residential,2016,2.296583791
+S2,A,Commercial,2016,1.489682059
+S2,A,Industrial,2016,0.972175155
+S2,A,Transportation,2016,7.18185904
+S2,A,Electric Power,2016,3.129487944
+S2,B,Residential,2016,13.70512185
+S2,B,Commercial,2016,6.740423135
+S2,B,Industrial,2016,4.78665217
+S2,B,Transportation,2016,31.68010097
+S2,B,Electric Power,2016,11.36811921
+S2,A,Residential,2017,2.274233858
+S2,A,Commercial,2017,1.498959503
+S2,A,Industrial,2017,0.993173704
+S2,A,Transportation,2017,7.135769135
+S2,A,Electric Power,2017,3.601958456
+S2,B,Residential,2017,13.61354313
+S2,B,Commercial,2017,6.783224543
+S2,B,Industrial,2017,4.875278891
+S2,B,Transportation,2017,31.53980972
+S2,B,Electric Power,2017,12.36347493
+S2,A,Residential,2018,2.247988123
+S2,A,Commercial,2018,1.500404652
+S2,A,Industrial,2018,1.005915968
+S2,A,Transportation,2018,7.06810024
+S2,A,Electric Power,2018,4.241226729
+S2,B,Residential,2018,13.49489442
+S2,B,Commercial,2018,6.791819725
+S2,B,Industrial,2018,4.925738924
+S2,B,Transportation,2018,31.29627325
+S2,B,Electric Power,2018,13.47003835
+S2,A,Residential,2019,2.219607454
+S2,A,Commercial,2019,1.499948723
+S2,A,Industrial,2019,1.013775619
+S2,A,Transportation,2019,6.98570119
+S2,A,Electric Power,2019,4.508175812
+S2,B,Residential,2019,13.36507579
+S2,B,Commercial,2019,6.80089464
+S2,B,Industrial,2019,4.971035843
+S2,B,Transportation,2019,30.99599116
+S2,B,Electric Power,2019,13.9095834
+S2,A,Residential,2020,2.19128324
+S2,A,Commercial,2020,1.497910306
+S2,A,Industrial,2020,1.023108678
+S2,A,Transportation,2020,6.897079946
+S2,A,Electric Power,2020,4.411089029
+S2,B,Residential,2020,13.23862975
+S2,B,Commercial,2020,6.80701597
+S2,B,Industrial,2020,5.029078524
+S2,B,Transportation,2020,30.66835047
+S2,B,Electric Power,2020,13.67357526
+S2,A,Residential,2021,2.163098829
+S2,A,Commercial,2021,1.494120145
+S2,A,Industrial,2021,1.030786791
+S2,A,Transportation,2021,6.803727026
+S2,A,Electric Power,2021,4.562956701
+S2,B,Residential,2021,13.10629508
+S2,B,Commercial,2021,6.800428761
+S2,B,Industrial,2021,5.075690222
+S2,B,Transportation,2021,30.32381992
+S2,B,Electric Power,2021,13.75395177
+S2,A,Residential,2022,2.1359409
+S2,A,Commercial,2022,1.489367659
+S2,A,Industrial,2022,1.039432403
+S2,A,Transportation,2022,6.707387659
+S2,A,Electric Power,2022,4.483443569
+S2,B,Residential,2022,12.97537718
+S2,B,Commercial,2022,6.792014081
+S2,B,Industrial,2022,5.129653277
+S2,B,Transportation,2022,29.96762987
+S2,B,Electric Power,2022,13.43960221
+S2,A,Residential,2023,2.11069892
+S2,A,Commercial,2023,1.486894936
+S2,A,Industrial,2023,1.049790143
+S2,A,Transportation,2023,6.610593686
+S2,A,Electric Power,2023,4.457021596
+S2,B,Residential,2023,12.85379482
+S2,B,Commercial,2023,6.792498811
+S2,B,Industrial,2023,5.190057122
+S2,B,Transportation,2023,29.61212855
+S2,B,Electric Power,2023,13.30522258
+S2,A,Residential,2024,2.087004038
+S2,A,Commercial,2024,1.484140431
+S2,A,Industrial,2024,1.060092784
+S2,A,Transportation,2024,6.51070303
+S2,A,Electric Power,2024,4.434320919
+S2,B,Residential,2024,12.73628595
+S2,B,Commercial,2024,6.789262514
+S2,B,Industrial,2024,5.242400112
+S2,B,Transportation,2024,29.25003017
+S2,B,Electric Power,2024,13.1990396
+S2,A,Residential,2025,2.063518875
+S2,A,Commercial,2025,1.481439876
+S2,A,Industrial,2025,1.072359226
+S2,A,Transportation,2025,6.408305465
+S2,A,Electric Power,2025,4.439914839
+S2,B,Residential,2025,12.61518369
+S2,B,Commercial,2025,6.782229195
+S2,B,Industrial,2025,5.302163276
+S2,B,Transportation,2025,28.88180729
+S2,B,Electric Power,2025,13.2007886
+S2,A,Residential,2026,2.04065087
+S2,A,Commercial,2026,1.477257966
+S2,A,Industrial,2026,1.08344812
+S2,A,Transportation,2026,6.315653068
+S2,A,Electric Power,2026,4.358559677
+S2,B,Residential,2026,12.49479484
+S2,B,Commercial,2026,6.771492609
+S2,B,Industrial,2026,5.359386502
+S2,B,Transportation,2026,28.5470625
+S2,B,Electric Power,2026,12.87469191
+S2,A,Residential,2027,2.018047484
+S2,A,Commercial,2027,1.473393946
+S2,A,Industrial,2027,1.09276087
+S2,A,Transportation,2027,6.230076379
+S2,A,Electric Power,2027,5.145576151
+S2,B,Residential,2027,12.37445342
+S2,B,Commercial,2027,6.763232078
+S2,B,Industrial,2027,5.40995153
+S2,B,Transportation,2027,28.23586653
+S2,B,Electric Power,2027,14.0070145
+S2,A,Residential,2028,1.995980298
+S2,A,Commercial,2028,1.4724804
+S2,A,Industrial,2028,1.099885902
+S2,A,Transportation,2028,6.154875378
+S2,A,Electric Power,2028,5.277606424
+S2,B,Residential,2028,12.25476769
+S2,B,Commercial,2028,6.764901483
+S2,B,Industrial,2028,5.450956642
+S2,B,Transportation,2028,27.96841669
+S2,B,Electric Power,2028,14.13494272
+S2,A,Residential,2029,1.974479529
+S2,A,Commercial,2029,1.469592013
+S2,A,Industrial,2029,1.107279962
+S2,A,Transportation,2029,6.091620019
+S2,A,Electric Power,2029,5.363177461
+S2,B,Residential,2029,12.13668175
+S2,B,Commercial,2029,6.764590743
+S2,B,Industrial,2029,5.495281851
+S2,B,Transportation,2029,27.74932134
+S2,B,Electric Power,2029,14.11438878
+S2,A,Residential,2030,1.95372456
+S2,A,Commercial,2030,1.46878518
+S2,A,Industrial,2030,1.116040636
+S2,A,Transportation,2030,6.038837316
+S2,A,Electric Power,2030,5.411224602
+S2,B,Residential,2030,12.02054143
+S2,B,Commercial,2030,6.770132473
+S2,B,Industrial,2030,5.544309764
+S2,B,Transportation,2030,27.57647473
+S2,B,Electric Power,2030,14.19681495
